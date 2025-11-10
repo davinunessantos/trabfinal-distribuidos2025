@@ -9,7 +9,7 @@ https://github.com/davinunessantos/trabfinal-distribuidos2025
 ## 🎯 Propósito do Projeto
 
 Este é o trabalho final da Disicplina de Sistemas Distribuídos
-Consiste no desenvolvimento de um **Sistema de Mensagens Instantâneas Distribuído** seguindo a arquitetura **Peer-to-Peer (P2P)**. O objetivo principal é demonstrar o estabelecimento de uma rede sem servidor central, focando na **entrada de novos nós via Multicast** e na **comunicação de grupo** (Fan-out).
+Consiste no desenvolvimento de um **Sistema de Mensagens Instantâneas Distribuído** seguindo a arquitetura **Peer-to-Peer (P2P)**. O objetivo principal é demonstrar o estabelecimento de uma rede sem servidor central, focando na **entrada de novos nós via Multicast** e na **comunicação de grupo**.
 
 -----
 
