@@ -1,6 +1,7 @@
 ## 📝 README.md
 
 # Sistema de Chat Distribuído P2P (MVP)
+-Por Davi Nunes, C.COMP UERJ
 
 ## 🎯 Propósito do Projeto
 
