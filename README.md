@@ -3,6 +3,9 @@
 # Sistema de Chat Distribuído P2P (MVP)
 -Por Davi Nunes, C.COMP UERJ
 
+**LINK PARA OS ARQUIVOS NO GIT:**
+https://github.com/davinunessantos/trabfinal-distribuidos2025
+
 ## 🎯 Propósito do Projeto
 
 Este é o trabalho final da Disicplina de Sistemas Distribuídos
